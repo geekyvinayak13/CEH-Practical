@@ -2,8 +2,6 @@
 
 # .......................................... CEHvs11 ...........................................
 
-I have recently passed the CEH Practical exam from EC-council in December 2022. I have prepared myself, Hope it will helpful to all of you guys. If any suggetions to me just connect with twitter and dm me. "Thank You.."
-
 
 ### Marks:
 ```
@@ -194,7 +192,35 @@ https://www.hackers-arise.com/post/2018/09/27/network-forensics-part-2-detecting
 6. netdiscover -i eth0 [ https://www.100security.com.br/netdiscover ]
 7. john --format=raw-md5 password.txt [ To change password to plain text ]
 ```
-
+### Tools that will help you to pass exam:
+```
+1. NMAP
+2. SQLMap
+3. Hydra
+4. Wireshark
+5. Veracrypt
+6. Hashcalc
+7. Dirb
+8. Steghide
+9. Searchsploit
+10. Hashcat
+11. John
+12. WPSCAN
+13. Rainbow crack ( This helped me to get my first 3 question answers! )
+14. Nikto
+15. Metasploit
+```
+### Sample Questions:
+```
+1. Which username was tampered? (You need to solving by comparing Hash values)
+2. Wordpress Username Enumeration!
+3. Retrieve Database names (SQLi)
+4. How many machines are there? (NMAP)
+5. Phone number of User X? (Metasploit/Parameter Tampering)
+6. What is the hidden text in X.jpeg (STEGHIDE)
+7. Password crack for VCRYPT
+9. IP Address/ Version of Running windows Server.
+```
 
 ## Google is your Best Friend
 ### Everythings are available on Google
