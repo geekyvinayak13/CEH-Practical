@@ -193,6 +193,7 @@ https://www.hackers-arise.com/post/2018/09/27/network-forensics-part-2-detecting
 5. wpscan --url https://10.10.10.10/ --enumerate u
 6. netdiscover -i eth0 [ https://www.100security.com.br/netdiscover ]
 7. john --format=raw-md5 password.txt [ To change password to plain text ]
+```
 
 
 ## Google is your Best Friend
