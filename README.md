@@ -176,6 +176,8 @@ Decrypt - https://hashes.com/en/decrypt/hash
 ```
 Filters:
 To find DOS (SYN and ACK) : tcp.flags.syn == 1, tcp.flags.syn == 1 and tcp.flags.ack == 0
+ Shortcut : Click Statistics > Conversations (then double click on Byte Coloumn) --> large no. of packets with max bytes size == DOS
+                                                                                     different packets with larger size than normal == DDOS
 To find passwords : http.request.method == POST
      Shortcut: Click tools > Credentials
 
